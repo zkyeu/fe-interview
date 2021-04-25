@@ -34,28 +34,10 @@
 相反面试官应该更关注`面试者是否了解前端开发的基本原理，而不是依赖更高级别的抽象。`
 比如你是否可以在不依赖库的情况下完成开发任务（当然实际情况很少这样），这样你才能彻底理解库在背后都做了什么。
 
-## 关于我
 
-我是一个对技术充满兴趣的程序员, 擅长前端工程化，前端性能优化，前端标准化等。
-
-做过.net， 搞过 Java，现在是一名前端工程师。拥有两年前端面试官的经验，
-对于面试的一些技术问题和套路有一定的认识和积累。
-
-除了我的本职工作外，我会在开源社区进行一些输出和分享，比较受欢迎的有[leetcode 题解](https://github.com/azl397985856/leetcode)
-和[我的第一本小书](https://github.com/azl397985856/automate-everything)
-
-如果大家需要内推的可以找我，我这里有包括阿里，腾讯，头条，网易等很多公司的朋友。
-有需要可以直接群里联系我，或者发送到我的个人邮箱 [azl397985856@gmail.com]。
-
-## 主题
-
-这部分的内容建议使用[线上地址阅读](https://lucifer.ren/fe-interview/#/)。
 
 ## 声明
-
-本仓库的所有内容都是本人自己整理的，因此可能有不够完善，优秀甚至错误的地方，大家可以随意提问题。
-
-对于前端的技能图谱，我比较推荐[这个网站](https://roadmap.sh/frontend)。
+对于前端的技能图谱，我比较推荐[这个网站](https://roadmap.sh/frontend)
 这个网站相对于其他的前端技能图谱，更新地更快一点，其他的技能图谱很多都落伍了。
 
 ## 每日一题
@@ -79,21 +61,7 @@
 
 之后我的文章会同步到微信公众号 `脑洞前端` ，你可以关注获取最新的文章，并和我进行交流。
 
-另外你可以回复大前端进大前端微信交流群， 回复 leetcode 拉你进 leetcode 微信群，如果想加入 qq 群，请回复 qq。
 
-<img width="300" src="https://github.com/azl397985856/leetcode/raw/master/assets/gongzhonghao.jpeg">
-
-## 捐赠
-
-[点击查看完整的捐赠列表](./donation.md)
-
-### 微信
-
-<img width="300" src="https://github.com/azl397985856/leetcode/raw/master/assets/donate-weixin.jpg">
-
-### 支付宝
-
-<img width="300" src="https://github.com/azl397985856/leetcode/raw/master/assets/donate-zfb.jpg">
 
 ## 贡献
 
